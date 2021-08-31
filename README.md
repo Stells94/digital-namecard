@@ -1,1 +1,1 @@
-# digital-namecard-vamonosriendo
+# digital-namecard
